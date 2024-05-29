@@ -1,7 +1,7 @@
 {
   "name": "craddle-frontend",
   "version": "0.1.0",
-  "description": "Frontend app for the HyperVIBES project.",
+  "description": "Frontend app for the craddle.",
   "scripts": {
     "build": "tsc && vite build",
     "prepare": "git config --unset core.hooksPath; pro-commit",
@@ -63,7 +63,7 @@
     "vite": "^4.3.9"
   },
   "engines": {
-    "node": ">=14.0.0",
-    "yarn": "^1.22.0"
+    "node": ">=18.0.0",
+    "yarn": "^3.6.1"
   }
 }
