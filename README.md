@@ -2,7 +2,7 @@
 
 ## Requirements
 
-- [Node](https://nodejs.org/en/) >=14.0.0
+- [Node](https://nodejs.org/en/) >=18.0.0
 - [Yarn](https://yarnpkg.com/) ^1.22.0
 
 ## Setup
