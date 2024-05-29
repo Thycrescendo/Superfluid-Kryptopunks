@@ -1,4 +1,4 @@
-# hypervibes-frontend
+# Craddle
 
 Frontend app for the [**HyperVIBES**](https://hypervibes.xyz) project.
 
