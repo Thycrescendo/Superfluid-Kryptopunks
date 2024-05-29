@@ -1,7 +1,5 @@
 # Craddle
 
-Frontend app for the [**HyperVIBES**](https://hypervibes.xyz) project.
-
 ## Requirements
 
 - [Node](https://nodejs.org/en/) >=14.0.0
