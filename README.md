@@ -10,7 +10,7 @@
 Clone the repo:
 
 ```sh
-$ git clone https://github.com/Thycrescendo/Craddle-meta-nft.git
+$ git clone https://github.com/Thycrescendo/xrpl-navy.git
 ```
 
 ## Development
