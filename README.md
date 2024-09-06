@@ -5,6 +5,9 @@
 - [Node](https://nodejs.org/en/) >=18.0.0
 - [Yarn](https://yarnpkg.com/) ^1.22.0
 
+
+This is a modern NFT project, the dapp allows users to mint their KryptoPunks NFT and stake them to receive staking rewards in the form of our own ERC20 token named  KryptoPunkToken (KPT).
+
 ## Setup
 
 Clone the repo:
