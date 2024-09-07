@@ -1,25 +1,5 @@
-import React, { useEffect, useState } from 'react';
-
-export const Avatar = ({
-    className = '',
-    alt = 'avatar',
-    src,
-    onClick = () => {},
-    size = 42,
-}) => {
-
+{
+    "_format": "hh-sol-dbg-1",
+    "buildInfo": "../../../build-info/751b8f54bc0e65902a333a463009dbe0.json"
+  }
   
-    return (
-        <div className={className}>
-            <img 
-                style={{width: `${size}px`, height: `${size}px`}}
-                src={src} 
-                className={`rounded-full object-cover`}
-                alt={alt}
-                onClick={onClick}
-                width={size}
-                height={size}
-            />
-        </div>
-    )
-}
