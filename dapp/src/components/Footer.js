@@ -7,13 +7,13 @@ function Footer() {
         <div className='footer container'>
             <p>KryptoPunks&#169; All Right Reserved</p>
             <div className='social'>
-                <a href='https://github.com/kaymen99' >
+                <a href='https://github.com/Thycrescendo' >
                     <AiOutlineGithub size={24} color="#000" />
                 </a>
-                <a href='https://github.com/kaymen99' >
+                <a href='https://x.com/Micholn2' >
                     <AiOutlineTwitter size={24} color="#000" />
                 </a>
-                <a href='https://github.com/kaymen99' >
+                <a href='https://discord.com/micholn#1700' >
                     <RiDiscordFill size={24} color="#000" />
                 </a>
             </div>

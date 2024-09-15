@@ -12,7 +12,8 @@ function Faq() {
                 <details open="">
                     <summary>What is KryptoPunks?</summary>
                     <div class="faq__content">
-                        <p>KryptoPunks is a project within the Polygon blockchain. Based on a collection of NFTs that can be staked to receive KryptoPunk Token rewards.</p>
+                        <p>
+                        This is a modern NFT project, a Xenea dapp that allows users to mint their KryptoPunks NFT and stake them to receive staking rewards in the form of our own ERC20 token named  KryptoPunkToken (KPT).</p>
                     </div>
                 </details>
                 <details>

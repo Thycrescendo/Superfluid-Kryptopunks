@@ -2,9 +2,9 @@
 
 <!-- ABOUT THE PROJECT -->
 
-# KryptoPunks NFT Staking Dapp
+# Xenea KryptoPunks NFT Staking Dapp
 
-This is a modern NFT project, the dapp allows users to mint their KryptoPunks NFT and stake them to receive staking rewards in the form of our own ERC20 token named  KryptoPunkToken (KPT).
+This is a modern NFT project, a Xenea dapp that allows users to mint their KryptoPunks NFT and stake them to receive staking rewards in the form of our own ERC20 token named  KryptoPunkToken (KPT).
 
 <p align="center">
   <img alt="Dark" src="https://user-images.githubusercontent.com/83681204/185254772-40163a1d-3481-4519-b936-b5093c71e097.png" width="100%">
@@ -101,12 +101,12 @@ The dashboard can only be accessed by the nft contract owner from the account wi
 Please install or have installed the following:
 * [nodejs](https://nodejs.org/en/download/) and [yarn](https://classic.yarnpkg.com/en/)
 * [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) Chrome extension installed in your browser
-* [Ganache](https://trufflesuite.com/ganache/) for local smart contracts deployement and testing.
+* [Ganache](https://trufflesuite.com/ganache/) for local smart contracts deployment and testing.
 
 Clone this repo with the command :
    ```sh
-   git clone https://github.com/kaymen99/KryptoPunks-nft-staking-dapp.git
-   cd KryptoPunks-nft-staking-dapp
+   git clone https://github.com/Thycrescendo/Superfliud_Pun
+   cd Superfliud_Pun
    ```
 
 ### Contracts
