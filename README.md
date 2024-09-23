@@ -2,9 +2,9 @@
 
 <!-- ABOUT THE PROJECT -->
 
-# Xenea KryptoPunks NFT Staking Dapp
+# Superfluid KryptoPunks NFT Staking Dapp
 
-This is a modern NFT project, a Xenea dapp that allows users to mint their KryptoPunks NFT and stake them to receive staking rewards in the form of our own ERC20 token named  KryptoPunkToken (KPT).
+This is a modern NFT project, a Superfluid dapp that allows users to mint their KryptoPunks NFT and stake them to receive staking rewards in the form of our own ERC20 token named  KryptoPunkToken (KPT).
 
 <p align="center">
   <img alt="Dark" src="https://user-images.githubusercontent.com/83681204/185254772-40163a1d-3481-4519-b936-b5093c71e097.png" width="100%">
