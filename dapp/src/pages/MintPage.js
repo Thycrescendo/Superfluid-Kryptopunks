@@ -10,7 +10,7 @@ import { Table } from "react-bootstrap";
 import { CircularProgress } from "@mui/material"
 
 import stakingContract from "../artifacts/NFTStakingVault.sol/NFTStakingVault.json";
-import nftContract from "../artifacts/KryptoPunks.sol/KryptoPunks.json";
+import nftContract from "../artifacts/Superfluid.sol/Superfluid.json";
 import { stakingContractAddress, nftContractAddress, ownerAddress, networkDeployedTo } from "../utils/contracts-config";
 import networksMap from "../utils/networksMap.json";
 

@@ -1,7 +1,7 @@
 {
     "_format": "hh-sol-artifact-1",
-    "contractName": "IKryptoPunksToken",
-    "sourceName": "contracts/interfaces/IKryptoPunksToken.sol",
+    "contractName": "ISuperfluidToken",
+    "sourceName": "contracts/interfaces/ISuperfluidToken.sol",
     "abi": [
       {
         "inputs": [

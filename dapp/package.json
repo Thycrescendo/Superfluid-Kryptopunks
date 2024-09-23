@@ -1,5 +1,5 @@
 {
-  "name": "kryptopunks-nft-staking-dapp",
+  "name": "Suerfluid-kryptopunks-nft-staking-dapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,6 +7,8 @@
     "@emotion/styled": "^11.8.1",
     "@mui/material": "^5.8.3",
     "@reduxjs/toolkit": "^1.8.2",
+    "@superfluid-finance/tokenlist": "^5.7.0",
+    "@superfluid-finance/widget": "^0.5.0",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",

@@ -1,7 +1,7 @@
 {
     "_format": "hh-sol-artifact-1",
-    "contractName": "KryptoPunksToken",
-    "sourceName": "contracts/KryptoPunksToken.sol",
+    "contractName": "SuperfluidToken",
+    "sourceName": "contracts/SuperfluidToken.sol",
     "abi": [
       {
         "inputs": [],
@@ -10,7 +10,7 @@
       },
       {
         "inputs": [],
-        "name": "KryptoPunksToken__OnlyControllersCanMint",
+        "name": "SuperfluidToken__OnlyControllersCanMint",
         "type": "error"
       },
       {

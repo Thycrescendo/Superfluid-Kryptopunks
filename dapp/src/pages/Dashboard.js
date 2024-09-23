@@ -6,7 +6,7 @@ import { ethers } from "ethers";
 import { Form } from "react-bootstrap";
 import { CircularProgress } from "@mui/material";
 
-import nftContract from "../artifacts/KryptoPunks.sol/KryptoPunks.json";
+import nftContract from "../artifacts/Superfluid.sol/Superfluid.json";
 import { nftContractAddress, ownerAddress, networkDeployedTo } from "../utils/contracts-config";
 import networksMap from "../utils/networksMap.json";
 
