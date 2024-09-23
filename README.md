@@ -72,7 +72,9 @@ The front-end is built using the following libraries:
         <li><b>Ethers.js:</b> used as interface between the UI and the deployed smart contract</li>
         <li><b>Web3modal:</b> for conecting to Metamask</li>
         <li><b>@reduxjs/toolkit & redux-persist:</b> for managing the app states (account, balance, blockchain) </li>
-        <li><b>Material UI:</b> used for react components and styles </li>    
+        <li><b>Superfluid:</b> Enables real-time, continuous reward distribution to users through token streams integrated with the staking mechanism. </li>   
+        li><b>Styled Components:</b> Provides scoped, modular CSS for styling the UI components. </li>
+        <li><b>Material UI:</b> used for react components and styles </li> 
       </ul>
       
 The home page is a modern NFT landing page that explains the KryptoPunks project and it's progression roadmap :
