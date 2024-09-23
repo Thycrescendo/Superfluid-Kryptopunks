@@ -14,6 +14,7 @@ This is a modern NFT project, a Superfluid dapp that allows users to mint their 
 
 * [Solidity](https://docs.soliditylang.org/)
 * [Hardhat](https://hardhat.org/getting-started/)
+* [Superfluid](https://www.superfluid.finance/)
 * [React.js](https://reactjs.org/)
 * [ethers.js](https://docs.ethers.io/v5/)
 * [web3modal](https://github.com/Web3Modal/web3modal)
